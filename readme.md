@@ -2,7 +2,7 @@
  [![Docker build passing](https://img.shields.io/badge/docker%20build-passing-brightgreen)](https://github.com/KibromBerihu/ai4elife/blob/main/Dockerfile) 
 
 # News!  
-#### Please refer to [THIS](https://github.com/KibromBerihu/MIPsegmentatorV1) for the 3D version of the method.
+# Please refer to [THIS](https://github.com/KibromBerihu/MIPsegmentatorV1) for the 3D version of the method.
 
 
 ## *AI4eLIFE: Artificial Intelligence for Efficient Learning-based Image Feature Extraction.*
